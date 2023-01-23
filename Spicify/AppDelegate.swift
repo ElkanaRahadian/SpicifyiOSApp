@@ -1,5 +1,5 @@
 //
-//  AppDelegate.swif
+//  AppDelegate.swift
 //  Spicify
 //
 //  Created by Dian Dinihari on 07/06/21.
