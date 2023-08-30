@@ -2,7 +2,6 @@
 //  maincameraViewController.swift
 //  Spicify
 //
-//  Created by Jonathan Herbert on 08/06/21.
 //
 
 import AVFoundation
