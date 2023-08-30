@@ -23,3 +23,7 @@ Therefore we found that identifying spices can be resolved using :
 1. Visual recognition : by its form and shape,
 2. Visual information : displaying the spices' characteristic and usage for each dishes. 
 This will help young adults to efficiently manage and organize their cooking ingredients, that leads to improving their knowledge about spices and the quality level of their dishes. 
+
+<p align="center">
+  <img height="500" src="/Spicify iOS App (Cover).png">
+</p>
