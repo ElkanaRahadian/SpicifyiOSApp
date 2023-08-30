@@ -25,5 +25,5 @@ Therefore we found that identifying spices can be resolved using :
 This will help young adults to efficiently manage and organize their cooking ingredients, that leads to improving their knowledge about spices and the quality level of their dishes. 
 
 <p align="center">
-  <img height="500" src="/Spicify iOS App (Cover).png">
+  <img src="/Spicify iOS App (Cover).png">
 </p>
