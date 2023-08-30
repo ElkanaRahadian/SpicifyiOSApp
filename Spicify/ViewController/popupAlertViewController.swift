@@ -2,7 +2,6 @@
 //  popupAlertViewController.swift
 //  Spicify
 //
-//  Created by Daffa Satria on 11/06/21.
 //
 
 import Foundation
