@@ -1,4 +1,3 @@
-
 import UIKit
 
 class LibraryVC: UIViewController, UITableViewDataSource, UITableViewDelegate {
@@ -122,5 +121,3 @@ extension UIImage {
         return nil
     }
 }
-
-
