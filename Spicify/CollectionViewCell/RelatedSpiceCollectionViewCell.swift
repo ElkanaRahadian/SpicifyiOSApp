@@ -2,7 +2,6 @@
 //  RelatedSpiceCollectionViewCell.swift
 //  Spicify
 //
-//  Created by Dian Dinihari on 10/06/21.
 //
 
 import UIKit
