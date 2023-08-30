@@ -2,7 +2,6 @@
 //  onboardingViewController.swift
 //  Spicify
 //
-//  Created by Alia Nurul Fatihah on 08/06/21.
 //
 
 import UIKit
