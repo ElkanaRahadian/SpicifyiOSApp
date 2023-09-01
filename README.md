@@ -3,7 +3,7 @@
 </p>
 
 ## Spicify
-Scan your unknown rhizome root spice and identify i
+Scan your unknown rhizome root spice and identify it
 
 ## Overview
 An iOS app that intended for beginner home-cook to identify Indonesian cooking spices (rhizome root) using visual recognition and spices library to help user learn about the spices by displaying its usage, characteristic, and form using machine learning. This will help beginner home-cook to efficiently manage and organise their cooking ingredients, that leads to improving their knowledge about spices and the quality level of their dishes. 
