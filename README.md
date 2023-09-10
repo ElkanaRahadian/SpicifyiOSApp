@@ -2,7 +2,7 @@
   <img height="500" src="/Spicify iOS App.png">
 </p>
 
-## Spicify
+## Spicif
 Scan your unknown rhizome root spice and identify it
 
 ## Overview
