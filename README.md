@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/spicify.png">
+  <img src="/spicifyiosapp.jpg">
 </p>
 
 ## Spicify iOS App
@@ -24,5 +24,5 @@ Therefore, identifying spice difficulty can be resolved using:
 2. Visual information: displaying the spices' characteristics and usage for each dish. This will help young adults efficiently manage and organize their cooking ingredients, which will improve their knowledge about spices and the quality of their dishes.
 
 <p align="center">
-  <img src="/spicifyfooter.png">
+  <img src="/spicifyfooter.jpg">
 </p>
