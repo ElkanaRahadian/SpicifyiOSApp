@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" src="/spicifyiosapp.png">
+  <img src="/spicifyfooter.png">
 </p>
 
 ## Spicify iOS App
