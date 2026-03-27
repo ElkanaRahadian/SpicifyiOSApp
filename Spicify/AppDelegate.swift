@@ -1,5 +1,5 @@
 //
-//  AppDelegate.swift
+//  AppDelegate.swif
 //  Spicify
 //
 //
