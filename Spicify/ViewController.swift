@@ -1,5 +1,5 @@
 //
-//  ViewController.swif
+//  ViewController.swift
 //  Spicify
 //
 //
