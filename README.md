@@ -2,7 +2,7 @@
   <img src="/spicifyiosapp.jpg">
 </p>
 
-## Spicify iOS App
+## Spicify iOS Ap
 Know your spice in one tap with Spicify
 
 ## Overview
